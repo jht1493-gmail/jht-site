@@ -85,6 +85,10 @@ https://twitter.com/jht1493
 
 ## Updates
 
+- [aa/archived/the-lingo-kid/jwt-Blog-DaLingoKid.htm](aa/archived/the-lingo-kid/jwt-Blog-DaLingoKid.htm)
+- [aa/archived/patent-8700804.pdf](aa/archived/patent-8700804.pdf)
+- [aa/jht-20231028T124938Z-001](aa/jht-20231028T124938Z-001)
+
 - threat to democracy links:
 - [threat to democracy 1](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
 - [threat to democracy 2](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
