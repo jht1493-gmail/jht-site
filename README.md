@@ -8,8 +8,8 @@ John Henry Thompson - A migration of my personal web sites
 
 ## Why
 
-• **Facebook.com** should be boycotted for their crimes against democracy and on going 
-[threat to democracy](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way). 
+• **Facebook.com** should be boycotted for their crimes against democracy and on going
+[threat to democracy](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way).
 **Facebook.com** users should move all their content to a free hosting site like **github.com**.
 
 • You should have full control of your content and social network, and not give it away for free to **Facebook.com**, an ethically compromised corporation.
@@ -56,9 +56,16 @@ Media 54,140,537 bytes (55.1 MB on disk) for 643 items.
 
 ### Migration of www.johnhenrythompson.com to [jht-md](jht-md/README.md)
 
-[jht-md](jht-md/README.md) is **johnhenrythompson.com** converted to markdown using nodejs script in [aa](aa).
+- [jht-md](jht-md/README.md)
+  -- is **johnhenrythompson.com** converted to markdown using nodejs script in [aa](aa).
 
-[johnhenrythompson_com](aa/johnhenrythompson_com) is migrated from [johnhenrythompson.com](http://www.johnhenrythompson.com), a site created with google sites. Site content extracted using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
+- [johnhenrythompson_com](aa/johnhenrythompson_com)
+  -- is migrated from
+  -- [johnhenrythompson.com](http://www.johnhenrythompson.com),
+  -- a site created with google sites.
+  -- Site content extracted using [sitesucker app](https://ricks-apps.com/osx/sitesucker/).
+
+- [aa/jht-20231028T124938Z-001](aa/jht-20231028T124938Z-001)
 
 ### Migration of www.j4u2.com to [j4u2-md](j4u2-md/jht/index.md)
 
@@ -78,11 +85,8 @@ https://twitter.com/jht1493
 
 ## Updates
 
--  threat to democracy links:
-  - [threat to democracy 1](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
-  - [threat to democracy 2](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
-  - [robert reich on trump](https://open.substack.com/pub/robertreich/p/how-trump-is-seeking-to-destroy-the)
-  - 
-   
-
- 
+- threat to democracy links:
+- [threat to democracy 1](https://www.npr.org/2019/10/23/772075523/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
+- [threat to democracy 2](https://www.kqed.org/news/11782019/mark-zuckerberg-offers-a-choice-the-facebook-way-or-the-china-way)
+- [robert reich on trump](https://open.substack.com/pub/robertreich/p/how-trump-is-seeking-to-destroy-the)
+-
