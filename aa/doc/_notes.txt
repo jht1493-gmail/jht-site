@@ -1,6 +1,13 @@
 notes.txt
 
 # --
+
+source for 
+sftp://jht1493.net//opt/bitnami/apache/htdocs/johnhenrythompson/index.html
+aa/jht-20231028T124938Z-001
+
+
+# --
 2024-11-11 11:37:46
 Added 
 

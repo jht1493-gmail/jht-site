@@ -1,0 +1,246 @@
+/*  
+Theme Name: chronicles - green
+Theme URI: http://www.blogohblog.com
+Description: A GREEN colored Wordpress Theme by <a href="http://www.blogohblog.com" title="Free WordPress Themes">Blog Oh! Blog</a> - Widget Ready, 3 Columns, Dark Brown, Rounded Edges, Web 2.0. This WordPress theme is categorized under a Creative Commons License. 081218 - modified by Jervis Thompson.
+Version: 1.0
+Author: Jai Nischal Verma
+Author URI: http://www.blogohblog.com
+*/
+
+/**************** Body *********************/
+*{margin:0;padding:0;}
+/*body {background-color:#2a5d0e; font:12px Verdana;}*/
+body {background-color:#2a5d0e; font:12px Verdana;}
+#wrapper {width:950px; margin:50px auto;}
+/*#main {background-color:#FFFFFF; padding:5px; width:940px; padding-bottom:20px;}*/
+#main {background-color:#FFFFFF; padding:5px; width:940px; padding-bottom:6px;}
+
+/**************** Search Bar *********************/
+#searchbar {height:50px; color:#ffea00;}
+#searchtext {width:232px; height:35px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/searchbar.gif) no-repeat left;}
+#ls {width:220px; border:none; background-color: #FFFFFF; margin-top:9px; margin-left:5px;}
+
+/**************** Header *********************/
+#header {margin-top:5px;}
+#header_left_top{width:726px; height:5px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/topper.gif) left bottom no-repeat;}
+#header_left{width:726px; height:95px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/toplogo.gif) left bottom no-repeat; float:left;}
+#header_right{width:224px; float:left; margin-bottom:10px;}
+#header_right h1 a {color:#fff; text-decoration:none; padding-left:10px; font:25px Trebuchet MS; letter-spacing:-2px;}
+
+/**************** Navigation *********************/
+#navigation {padding-left:10px; margin-left:10px; margin-right:10px; margin-top:30px; float:left; }
+#menu ul{list-style-type: none;margin: 0;padding: 0;}
+#menu ul li{float:left;margin: 0 5px 0 0;height: 22px;overflow: hidden;display: inline;}
+#menu ul li a{display: block;padding: 2px 10px 10px;text-decoration: none;color:#fff;text-decoration: none;font-weight:100; letter-spacing:.08em;}
+#menu ul li a:hover{ color:#ffea00;}
+#menu ul li.current_page_item{background: #ffea00 url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/tab_right.gif) no-repeat right top;}
+#menu ul li.current_page_item a{background: url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/tab_left.gif) no-repeat;color:#2a5d0e;}
+
+/**************** Sidebars *********************/
+#sidebar1{width:231px;  background-color:#2a5d0e; float:left;}
+/*#sidebar1_top {width:231px; height:5px;  background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarl_top.gif) bottom left no-repeat;}*/
+#sidebar1_top {width:231px; background-color:#2a5d0e;}
+#sidebar1 h2{ font-size:1em; color: #003366; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarl_cat.gif) left no-repeat; width:213px; height:28px; text-transform:uppercase; padding-left:10px; padding-top:5px;}
+#sidebar1 a{color:#ffffff; text-decoration:none;}
+#sidebar1 a:hover{color:#ffea00;}
+#sidebar1 ul{list-style-type:none;}
+#sidebar1 ul li{list-style-type:none;margin-left:7px;margin-top:20px;}
+#sidebar1 ul li ul{font-style:normal;list-style-type:none;margin-top:10px;padding:0px;}
+#sidebar1 ul li ul li{border:0;display:block;margin:0 0px 5px;padding:0 0 5px 20px;}
+#sidebar1 p{padding:0 5px;}
+/*#sidebar1_bottom {width:231px; height:5px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarl_bottom.gif) top left no-repeat;}*/
+#sidebar1_bottom {width:231px; background-color:#2a5d0e;}
+
+#sidebar2{width:200px;  background-color:#003366; float:left;}
+/*#sidebar2_top {width:200px; height:5px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarr_top.gif) bottom left no-repeat;}*/
+#sidebar2_top {width:200px; background-color:#003366; float:left;}
+#sidebar2 h2{ font-size:12px; color: #003366; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarr_cat.gif) left no-repeat; width:185px; height:28px; text-transform:uppercase; padding-left:10px; padding-top:5px;}
+#sidebar2 a{color:#ffffff; text-decoration:none;}
+#sidebar2 a:hover{color: #ffea00;}
+#sidebar2 ul{list-style-type:none;color:#ffffff;}
+#sidebar2 ul li{list-style-type:none;margin-left:5px;margin-top:20px;}
+#sidebar2 ul li ul{font-style:normal;list-style-type:none;margin-top:10px;padding:0px;}
+#sidebar2 ul li ul li{border:0;display:block;margin:0 0px 5px;padding:0 0 5px 10px;}
+#sidebar2 p{padding:0 5px;}
+/*#sidebar2_bottom {width:200px; height:5px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/sidebarr_bottom.gif) top left no-repeat;}*/
+#sidebar2_bottom {width:200px; background-color:#003366; float:left;}
+
+/**************** Links *********************/
+/*a:link, a:visited{color: #392C1F;text-decoration:none;}*/
+a:link, a:visited{color: #2a5d0e;text-decoration:underline;}
+/*a:hover{color: #666666;}*/
+a:hover{color: #2a5d0e;text-decoration:none;}
+h3{color:#666666;}
+
+/**************** Blog Entry *********************/
+#blog {width:505px; float:left;}
+.post_title{float:left; width:400px; padding-bottom:10px;}
+.date {height:63px; width:57px; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/date.gif) left no-repeat;color:#ffffff; font-size:12px; text-align:center; padding-top:25px; float:left;}
+.posted { color:#666666; padding-left:11px; font-weight:bold;}
+/*.entry h2{font-weight:normal; padding-top:10px; padding-left:10px;  text-align:left; font-size:26px; letter-spacing:-2px; color:#003366;}*/
+.entry h2{font-weight:bold; padding-top:10px; padding-left:10px;  text-align:left; font-size:26px; letter-spacing:-2px; color:#003366;}
+.entry h2 a{text-decoration:none; color:#003366;}
+.entry h2 a:hover {color: #333333;}
+.tags { padding-bottom:5px; margin-bottom:10px; font-size:11px; border-bottom:1px solid #003366;}
+.entry p{padding:0 0 10px 0;}
+/*.post{padding:0px 15px 0px 15px;text-align:justify; margin-bottom:20px;}*/
+.post{padding:0px 15px 0px 15px;text-align:left; margin-bottom:20px;}
+/*html>body .entry ul { margin-left: 0px; padding: 0 0 0 30px; list-style: none; padding-left: 10px; text-indent: -10px;} 
+html>body .entry li { margin: 7px 0 8px 10px; }*/
+
+html>body .entry ul { margin-left: 0px; padding: 0 0 0 30px; list-style: square; padding-left: 10px;} 
+html>body .entry li { margin: 7px 0 8px 10px; }
+
+/*.entry ul li:before{ content: "\00BB \0020"; }*/
+.entry ol { padding: 0 0 0 35px; margin: 0; }
+.entry ol li { margin: 0; padding: 0; }
+.meta {background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/meta.gif) left no-repeat; width:476px; height:43px; padding-left:15px; padding-top:35px; font-size:11px; color:#2a5d0e;}
+.meta a, .meta a:visited {color: #003366; text-decoration: none;}
+h2.search {font-size:16px; color:#003366; letter-spacing:3px;}
+
+/******* .. jwt .. 080622 *******/
+
+.entry #dash_top {
+  border-top: 1px solid #707070;
+  margin: 0 0 0 0;
+}
+
+
+.entry #this_term {
+  padding: 0 0 0 0;
+}
+.entry #this_term ul {
+  list-style: none;
+}
+.entry #this_term ul li {
+  border-top: 1px solid #707070;
+  border-bottom: 1px solid #707070;
+  width: 382px;
+  height: 90px;
+  margin: 0 0 0 0;
+}
+.entry #this_term a {
+  display: block;
+  text-indent: -2100px;
+  width: 382px;
+  height: 90px;
+  text-decoration: none;
+}
+.entry #this_term a#DIGM240 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm240.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM241 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm241.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM242 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm242.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM265 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm265.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM440 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm440.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM445 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm445.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM465 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm465.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM492 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm492.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM560 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm560.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM641 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm641.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM680 {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_digm680.jpg) no-repeat 0 0;
+}
+.entry #this_term a#DIGM-SP {
+  background: transparent url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-badges/badge_seniorproject.jpg) no-repeat 0 0;
+}
+.entry #this_term a:hover#UNIV101,
+.entry #this_term a:hover#DIGM240,
+.entry #this_term a:hover#DIGM241,
+.entry #this_term a:hover#DIGM242,
+.entry #this_term a:hover#DIGM265,
+.entry #this_term a:hover#DIGM445,
+.entry #this_term a:hover#DIGM465,
+.entry #this_term a:hover#DIGM492,
+.entry #this_term a:hover#DIGM560,
+.entry #this_term a:hover#DIGM641,
+.entry #this_term a:hover#DIGM680,
+.entry #this_term a:hover#DIGM-SP{
+  background-position: 0 -90px;
+}
+
+
+/******* .. jwt .. 080622 *******/
+/* http://www.leigeber.com/2008/04/lightweight-javascript-and-css-accordion/ */
+#slider {width:474px}
+/*#slider .header {width:454px; border:2px solid #9ac1c9; padding:8px; font-weight:bold; margin-top:5px; cursor:pointer; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-slider-images/header.gif)}*/
+#slider .header {width:454px; border:2px solid #003366; padding:8px; font-weight:bold; margin-top:5px; cursor:pointer; background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-slider-images/header.gif)}
+#slider .header:hover {background:url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/jwt-slider-images/header_over.gif)}
+#slider .content {overflow:hidden}
+/*#slider .text {width:440px; border:2px solid #9ac1c9; border-top:none; padding:15px}*/
+#slider .text {width:440px; border:2px solid #003366; border-top:none; padding:15px}
+
+
+/**************** Comments *********************/
+#comments {font-size:1em; font-weight:lighter; padding-top:10px; border-top:1px solid #CCCCCC; margin-top:10px;}
+.commentlist{padding:20px;}
+.commentlist p{font-size:11px; padding-top:5px;}
+#author, #email, #url {width:12em;font-size:11px; color:#666666;font-weight:bold;padding:3px; margin-right:5px; border:1px solid #211100;}
+#submit{font:bold 0.8em Tahoma;margin-bottom:15px;margin-top:5px;padding:2px;}
+#respond{padding-top:20px;padding-bottom:10px; font-weight:lighter;}
+#comment{width:70%;border:1px solid #211100;font:1em Tahoma;color:#666666;font-weight:bold;}
+h3 #comments {font-size:13px;}
+#commentform h2 {font-size:14px; font-weight:normal;}
+
+/**************** Misc *********************/
+acronym, abbr, span.caps { cursor: help; }
+acronym, abbr { border-bottom: 1px dashed #999; }
+
+/*blockquote { margin: 15px 30px 0 10px; padding-left: 20px; border-left: 5px double #993300; }*/
+blockquote { margin: 15px 30px 0 10px; padding-left: 20px; border-left: 5px double #000000; }
+
+blockquote cite { margin: 5px 0 0; display: block; }
+.center { text-align: center; }
+hr { display: none; }
+a img { border: none; }
+.alignright{float:right;padding-right:20px;}
+.alignleft{float:left; padding-left:20px;}
+img.centered{display:block;margin-left:auto;margin-right:auto;}
+img.alignright{display:inline;margin:0 0 2px 7px;padding:4px;}
+img.alignleft{display:inline;margin:0 7px 2px 0;padding:4px;}
+pre {border: solid 1px #9a9a9a;color: blue;margin: 10px;padding:10px;background: #f3f2ed}
+code {font-size:1.0em;color:#666;}
+
+/**************** Footer *********************/
+#footer {height:31px; background: url(/web/20241206113735im_/http://www.jervo.com/blog/wp-content/themes/chronicles_jw/images/footer.gif) center no-repeat; color:#FFFFFF; font-size:11px;}
+#footer a{color:#ffea00;}
+#copyright { padding-left:10px; padding-top:6px;}
+/*
+     FILE ARCHIVED ON 11:37:35 Dec 06, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:28:13 Aug 28, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.515
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.01
+  esindex: 0.011
+  cdx.remote: 8.397
+  LoadShardBlock: 754.201 (3)
+  PetaboxLoader3.resolve: 814.05 (4)
+  PetaboxLoader3.datanode: 303.16 (5)
+  load_resource: 565.375
+  loaddict: 84.167
+*/
