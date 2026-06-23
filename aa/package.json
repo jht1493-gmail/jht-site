@@ -6,7 +6,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "jimp": "^0.14.0",
-    "turndown": "^5.0.3"
+    "turndown": "^7.2.1"
   },
   "devDependencies": {},
   "scripts": {
